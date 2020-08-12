@@ -1,0 +1,27 @@
+body {
+    background-image: url(images/background.jpg);
+}
+
+#portfolio1 {
+    max-width:100%; 
+    height:auto; 
+}
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+header,
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.screenshot {
+    width: 30%;
+    height: auto;
+}
+
+.card-body {
+    margin-left: 10px;
+}
